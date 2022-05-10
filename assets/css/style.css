@@ -79,6 +79,13 @@ section{
     position: relative;
 }
 
+.hero-cta{
+    position: absolute;
+    width: 500px;
+    text-align: right;
+    bottom: 250px;
+}
+
 .hero-form{
     background-color: #fce138;
     padding: 20px;
